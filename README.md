@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 <a href="https://labs.dese.iisc.ac.in/zenlab/people/nithish-k-gnani/" target="_blank">
-<img src="Media\ZENLab_Logo.png" width=100 />
+<img src="Media\ZENLab_Logo.png" width=90 />
 </a>
 
 
