@@ -54,7 +54,7 @@ I work with tactile internet, deterministic networks, cyber physical systems, Io
 
 - 🏭 Former Team Lead in Manufacturing at Coca-Cola    
 
-- 🎓 Mechanical Engineering Graduate from NIT Karnataka  
+- 🎓 Mechanical Engineering Graduate from NIT Karnataka (NITK), Surathkal, India  
 
 
 </td><td valign="top" width="30%">
