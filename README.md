@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ## Hello👋, I'm Nithish K Gnani  
   
 
+<a href="https://labs.dese.iisc.ac.in/zenlab/people/nithish-k-gnani/" target="_blank">
+<img src="Media\ZENLab_Logo.png" width=90 />
+</a>
 <a href="https://github.com/nithishkgnani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -33,9 +36,6 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCY_54xEn83SUWpL6e7y809w" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://labs.dese.iisc.ac.in/zenlab/people/nithish-k-gnani/" target="_blank">
-<img src="Media\ZENLab_Logo.png" width=90 />
-</a>
 
 
 ## About me  
