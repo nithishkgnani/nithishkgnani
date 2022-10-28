@@ -51,7 +51,7 @@ I work with tactile internet, deterministic networks, cyber physical systems, Io
 
 <table><tr><td valign="top" width="70%">
 
-- 🔍 Research with [Tactile Internet and Cyber Physical Systems](https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/)  
+- 🔍 Research on [Tactile Internet and Cyber Physical Systems](https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/)  
   
 - 💼 Working at Indian Institute of Science      
 
