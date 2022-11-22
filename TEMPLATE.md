@@ -18,25 +18,28 @@ Here are some ideas to get you started:
 ## Hello👋, I'm Nithish K Gnani  
   
 
+<a href="https://nithishkgnani.github.io/" target="_blank">
+<img src=https://shields.io/badge/website-%2324292e.svg?logo=github&style=for-the-badge&logoColor=white alt=webiste style="margin-bottom: 5px;" />
+</a>
 <a href="https://labs.dese.iisc.ac.in/zenlab/people/nithish-k-gnani/" target="_blank">
 <img src="Media\ZENLab_Logo.png" width=90 alt=ZENLab />
 </a>
 <a href="https://linkedin.com/in/nithish-k-gnani" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<!-- </a>
 <a href="https://nithishkgnani.wordpress.com/" target="_blank">
 <img src=https://img.shields.io/badge/wordpress-%2325586F.svg?&style=for-the-badge&logo=wordpress&logoColor=white alt=wordpress style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/nithishkgnani" target="_blank">
+</a> -->
+<!-- <a href="https://github.com/nithishkgnani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://twitter.com/nithishkgnani" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/nithishkgnani" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23820AEC.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCY_54xEn83SUWpL6e7y809w" target="_blank">
+<a href="https://www.youtube.com/@sapienprime" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 
