@@ -76,15 +76,15 @@ GitHub Stats:
 
 Joined Github **6** years ago.
 
-Since then I pushed **261** commits, opened **2** issues, submitted **37** pull requests, received **12** stars across **11** personal projects and contributed to **5** public repositories.
+Since then I pushed **265** commits, opened **2** issues, submitted **39** pull requests, received **12** stars across **11** personal projects and contributed to **5** public repositories.
 
 <!-- 
 Most used languages across my projects:
 
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.5%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.4%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B13.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.3%25)
-![P4](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237055b5&message=P4%EF%B8%B10.2%25)
+![P4](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237055b5&message=P4%EF%B8%B10.3%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
  -->
 
