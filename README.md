@@ -76,7 +76,7 @@ GitHub Stats:
 
 Joined Github **6** years ago.
 
-Since then I pushed **274** commits, opened **2** issues, submitted **39** pull requests, received **12** stars across **12** personal projects and contributed to **5** public repositories.
+Since then I pushed **277** commits, opened **2** issues, submitted **39** pull requests, received **11** stars across **12** personal projects and contributed to **5** public repositories.
 
 <!-- 
 Most used languages across my projects:
