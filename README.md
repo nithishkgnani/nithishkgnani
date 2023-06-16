@@ -76,18 +76,18 @@ GitHub Stats:
 
 Joined Github **6** years ago.
 
-Since then I pushed **338** commits, opened **2** issues, submitted **40** pull requests, received **13** stars across **13** personal projects and contributed to **5** public repositories.
+Since then I pushed **341** commits, opened **2** issues, submitted **40** pull requests, received **13** stars across **14** personal projects and contributed to **5** public repositories.
 
 <!-- 
 Most used languages across my projects:
 
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B175.7%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B19.1%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B17.4%25)
-![P4](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237055b5&message=P4%EF%B8%B12.7%25)
-![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B12%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B173.7%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B18.9%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B17.3%25)
+![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B14.6%25)
+![P4](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237055b5&message=P4%EF%B8%B12.6%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B11.4%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.1%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
  -->
 
