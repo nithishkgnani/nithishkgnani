@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 
 <a href="https://nithishkgnani.github.io/" target="_blank">
-<img src=https://shields.io/badge/website-%2324292e.svg?logo=github&style=for-the-badge&logoColor=white alt=webiste style="margin-bottom: 5px;" />
+<img src=https://shields.io/badge/website-%2324292e.svg?logo=github&style=for-the-badge&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 <a href="https://labs.dese.iisc.ac.in/zenlab/people/nithish-k-gnani/" target="_blank">
 <img src="Media\ZENLab_Logo.png" width=90 alt=ZENLab />
@@ -76,7 +76,7 @@ GitHub Stats:
 
 Joined Github **6** years ago.
 
-Since then I pushed **384** commits, opened **2** issues, submitted **40** pull requests, received **16** stars across **14** personal projects and contributed to **4** public repositories.
+Since then I pushed **390** commits, opened **2** issues, submitted **40** pull requests, received **16** stars across **14** personal projects and contributed to **4** public repositories.
 
 <!-- 
 Most used languages across my projects:
