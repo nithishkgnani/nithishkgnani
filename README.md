@@ -74,7 +74,7 @@ I work with tactile internet, deterministic networks, cyber physical systems, Io
 
 GitHub Stats:
 
-Joined Github **6** years ago.
+Joined Github **7** years ago.
 
 Since then I pushed **475** commits, opened **2** issues, submitted **45** pull requests, received **15** stars across **16** personal projects and contributed to **6** public repositories.
 
