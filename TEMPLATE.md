@@ -1,20 +1,3 @@
-<!--
-### Hi there 👋
-
-**nithishkgnani/nithishkgnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hello👋, I'm Nithish K Gnani  
   
 
@@ -46,15 +29,13 @@ Here are some ideas to get you started:
 
 ## About me  
 I'm Nithish K Gnani, a researcher at Indian Institute of Science (IISc), Bangalore.
-I work with tactile internet, deterministic networks, cyber physical systems, IoT data management among other research areas in electronic systems.  
-  
-
+I work with cyber-physical systems (connected robots), tactile internet, IoT data management among other research areas in mechatronic systems.  
  
 
 
 <table><tr><td valign="top" width="70%">
 
-- 🔍 Research on [Tactile Internet and Cyber Physical Systems](https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/)  
+- 🔍 Research on [Cyber Physical Systems](https://nithishkgnani.github.io/project/tcps/) and [Tactile Internet](https://nithishkgnani.github.io/project/tsn/)  
   
 - 💼 Working at Indian Institute of Science      
 
