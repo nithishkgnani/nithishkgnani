@@ -57,7 +57,7 @@ GitHub Stats:
 
 Joined Github **8** years ago.
 
-Since then I pushed **690** commits, opened **2** issues, submitted **39** pull requests, received **30** stars across **23** personal projects and contributed to **4** public repositories.
+Since then I pushed **692** commits, opened **2** issues, submitted **39** pull requests, received **30** stars across **24** personal projects and contributed to **4** public repositories.
 
 <!-- 
 Most used languages across my projects:
@@ -69,7 +69,7 @@ Most used languages across my projects:
 ![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B13.9%25)
 ![P4](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237055b5&message=P4%EF%B8%B12.6%25)
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B12.5%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.3%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.4%25)
  -->
 
 <p align="right"><sub>GitHub stats generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
