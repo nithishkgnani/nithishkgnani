@@ -55,9 +55,9 @@ I work with cyber-physical systems (connected robots), tactile internet, IoT dat
 
 GitHub Stats:
 
-Joined Github **8** years ago.
+Joined Github **9** years ago.
 
-Since then I pushed **723** commits, opened **2** issues, submitted **39** pull requests, received **33** stars across **26** personal projects and contributed to **4** public repositories.
+Since then I pushed **723** commits, opened **2** issues, submitted **39** pull requests, received **33** stars across **26** personal projects and contributed to **3** public repositories.
 
 <!-- 
 Most used languages across my projects:
