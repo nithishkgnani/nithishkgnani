@@ -1,4 +1,4 @@
-## Hello👋, I'm Nithish K Gnani  
+## Hello👋, I'm Nithish Krishnabharathi Gnani  
   
 
 <a href="https://nithishkgnani.github.io/" target="_blank">
@@ -16,25 +16,24 @@
 <!-- <a href="https://github.com/nithishkgnani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> -->
-<a href="https://twitter.com/nithishkgnani" target="_blank">
+<!-- <a href="https://twitter.com/nithishkgnani" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://www.youtube.com/@sapienprime" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+<a href="https://scholar.google.com/citations?user=sVE_GcMAAAAJ&hl=en" target="_blank">
+<img src=https://shields.io/badge/Scholar-blue.svg?logo=google-scholar&style=for-the-badge&logoColor=white alt=google-scholar style="margin-bottom: 5px;" />
+</a>
 
 
 ## About me  
-I'm Nithish K Gnani, a researcher at Indian Institute of Science (IISc), Bangalore.
-I work with cyber-physical systems (connected robots), tactile internet, IoT data management among other research areas in mechatronic systems.  
- 
-
 
 <table><tr><td valign="top" width="70%">
 
-- 🔍 Research on [Cyber Physical Systems](https://nithishkgnani.github.io/project/tcps/) and [Tactile Internet](https://nithishkgnani.github.io/project/tsn/)  
+- 🎓 Dual MSc student in Autonomous Systems and Intelligent Robots at the Polytech Nice Sophia, France and KTH Royal Institute of Technology, Sweden 
   
-- 💼 Working at Indian Institute of Science      
+- 💼 Former Technical Associate at Indian Institute of Science      
 
 - 🏭 Former Team Lead in Manufacturing at Coca-Cola    
 
